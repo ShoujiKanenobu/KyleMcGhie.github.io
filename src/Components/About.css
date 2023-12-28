@@ -1,0 +1,11 @@
+a {
+    margin-right: 10px;
+  }
+
+.fadeshouji {
+ opacity: 0;
+ transition: opacity 0.5s ease-in-out;
+}
+.fadeshouji.show {
+    opacity: 1;
+}
