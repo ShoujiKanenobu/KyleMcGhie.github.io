@@ -10,7 +10,7 @@ export default function Samples() {
                     <div className="rowC">
                         <div className="ps-10">
                             <img
-                                src="./TowerBaseSample.PNG"
+                                src="./TowerBaseSample.png"
                                 alt="Tower Base Sample"
                                 width="auto"
                                 height="600px"
@@ -44,7 +44,7 @@ export default function Samples() {
                     <div className="rowC">
                         <div>
                             <img
-                                src="./SentenceParserSample.PNG"
+                                src="./SentenceParserSample.png"
                                 alt="Sentence Parser Sample"
                                 width="auto"
                                 height="600px"
@@ -80,7 +80,7 @@ export default function Samples() {
                     <div className="rowC">
                         <div>
                             <img
-                                src="./FireBurningCharacterSample.PNG"
+                                src="./FireBurningCharacterSample.png"
                                 alt="Fire Burning Sample"
                                 width="auto"
                                 height="600px"
