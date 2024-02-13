@@ -16,7 +16,7 @@ export default function Projects() {
                     <Card.Body>
                         <Card.Title>Crystal Guard TD</Card.Title>
                         <Card.Text>
-                            Designed the game from top to bottom. Code primary
+                            Created the game from top to bottom. Code primary
                             focused on creating an easily expandable and modular
                             tower system and powerup system.
                         </Card.Text>
@@ -25,6 +25,12 @@ export default function Projects() {
                             variant="primary"
                         >
                             View on Github
+                        </Button>
+                        <Button
+                            href="https://linktr.ee/crystalguard"
+                            variant="primary"
+                        >
+                            Buy Now!
                         </Button>
                     </Card.Body>
                 </Card>
